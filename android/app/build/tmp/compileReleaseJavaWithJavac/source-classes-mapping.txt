@@ -1,0 +1,9 @@
+com/parliamentary_app/MainApplication.java
+ com.parliamentary_app.MainApplication
+ com.parliamentary_app.MainApplication$1
+com/parliamentary_app/MainActivity.java
+ com.parliamentary_app.MainActivity
+com/parliamentary_app/BuildConfig.java
+ com.parliamentary_app.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

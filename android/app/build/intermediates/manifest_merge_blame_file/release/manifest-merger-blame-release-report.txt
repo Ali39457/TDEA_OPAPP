@@ -1,0 +1,65 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.parliamentary_app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:4:5-67
+11-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:5:6-81
+12-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:5:23-79
+13
+14    <application
+14-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:7:5-27:19
+15        android:name="com.parliamentary_app.MainApplication"
+15-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:8:7-38
+16        android:allowBackup="false"
+16-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:12:7-34
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.5.0] C:\Users\Backup\.gradle\caches\transforms-3\5646db46e2cfb43e7b3d42f3054c498c\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+18        android:icon="@mipmap/ic_launcher"
+18-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:10:7-41
+19        android:label="@string/app_name"
+19-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:9:7-39
+20        android:networkSecurityConfig="@xml/network_security_config"
+20-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:14:7-67
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:11:7-52
+22        android:theme="@style/AppTheme"
+22-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:15:7-38
+23        android:usesCleartextTraffic="true" >
+23-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:13:7-42
+24        <activity
+24-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:16:7-26:18
+25            android:name="com.parliamentary_app.MainActivity"
+25-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:17:9-37
+26            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+26-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:19:9-86
+27            android:label="@string/app_name"
+27-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:18:9-41
+28            android:launchMode="singleTask"
+28-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:20:9-40
+29            android:windowSoftInputMode="adjustResize" >
+29-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:21:9-51
+30            <intent-filter>
+30-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:22:9-25:25
+31                <action android:name="android.intent.action.MAIN" />
+31-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:23:13-65
+31-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:23:21-62
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:24:13-73
+33-->E:\React Native\Parliamentary_App\android\app\src\main\AndroidManifest.xml:24:23-70
+34            </intent-filter>
+35        </activity>
+36    </application>
+37
+38</manifest>
