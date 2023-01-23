@@ -1244,7 +1244,7 @@ for(let i = 0 ; i < ReportCount ; i++ ){
                                    
     {/*------------------------------------Modal Handle Modal btn----------------------------------------- */}
         <View style={{width:"100%",height:40}} />
-         <View style={styles.modalhandlebtnView} >
+         <View style={styles.modalBtn2} >
          <TouchableOpacity onPress={()=>{
              setModalVisible(!modalVisible)
              setReportDebateCount()
@@ -1252,7 +1252,7 @@ for(let i = 0 ; i < ReportCount ; i++ ){
              SetDebateDATA0([])
              setDebatecount0(1)
              }}>
-             <Text style={styles.modalText}>Close</Text>
+             <Text style={styles.modalBtnText}>Close</Text>
         </TouchableOpacity>
 
          </View>
@@ -1727,6 +1727,16 @@ modalhandlebtnView1:{
   position:"absolute",
   right:1
   },
- 
+  modalBtn2:{
+    position:"absolute",
+    right:10,
+    bottom:10,
+    backgroundColor:"#48C9B0",
+    borderWidth:0.45,
+    elevation:5,
+    borderColor:"#F4F6F6",
+    borderRadius:15,
+    paddingHorizontal:15,
+  },
  
 })

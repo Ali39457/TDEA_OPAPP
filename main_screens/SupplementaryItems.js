@@ -389,7 +389,7 @@ const SearchFilterMinistry=(text)=>{
           }}>
     <View style={styles.OuterModalView}>
       <View style={styles.modalView}>
-        <Text style={styles.Text}>Members of Panel of Chairpersons : {MinistryCount-1}</Text> 
+        <Text style={styles.Text}>Ministries List: {MinistryCount-1}</Text> 
            <FlatList style={styles.FlatList}
            data={MinistryNameArray}
            renderItem={renderMinistryItem1}
@@ -966,7 +966,7 @@ for(let i = 0 ; i < SupplementaryCount ; i++ ){
                                    
     {/*------------------------------------Modal Handle Modal btn----------------------------------------- */}
         <View style={{width:"100%",height:40}} />
-         <View style={styles.modalhandlebtnDebate} >
+         <View style={styles.modalBtn2} >
          <TouchableOpacity onPress={()=>{
              setModalVisible(!modalVisible)
              setSupplementaryDebateCount()
@@ -974,7 +974,7 @@ for(let i = 0 ; i < SupplementaryCount ; i++ ){
              SetDebateDATA0([])
              setDebatecount0(1)
              }}>
-             <Text style={styles.modalText}>Close</Text>
+             <Text style={styles.modalBtnText}>Close</Text>
         </TouchableOpacity>
 
          </View>
@@ -1049,7 +1049,7 @@ for(let i = 0 ; i < SupplementaryCount ; i++ ){
 
       {/*------------------------------------Modal Handle Modal btn----------------------------------------- */}
           <View style={{width:"100%",height:40}} />
-           <View style={styles.modalhandlebtnMinistry}>
+           <View style={styles.modalBtn2}>
            <TouchableOpacity  onPress={()=>{
              setModalVisible1(!modalVisible1)
              SetMinistryDATA([])
@@ -1057,7 +1057,7 @@ for(let i = 0 ; i < SupplementaryCount ; i++ ){
              SearchFilterMinistry('')
              setShow(false)
              }}>
-               <Text style={styles.modalText}>Close</Text>
+               <Text style={styles.modalBtnText}>Close</Text>
           </TouchableOpacity>
     
            </View>
@@ -1656,6 +1656,16 @@ modalhandlebtnMinistry:{
       fontSize:17,
       textAlign:"center"
     },
- 
+    modalBtn2:{
+      position:"absolute",
+      right:10,
+      bottom:10,
+      backgroundColor:"#48C9B0",
+      borderWidth:0.45,
+      elevation:5,
+      borderColor:"#F4F6F6",
+      borderRadius:15,
+      paddingHorizontal:15,
+    },
  
 })

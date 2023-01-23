@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Parliamentary_App.iml" filepath="$PROJECT_DIR$/.idea/modules/Parliamentary_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2019761703/Parliamentary_App.@react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/-2019761703/Parliamentary_App.@react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2019761703/Parliamentary_App.@react-native-community_datetimepicker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2019761703/Parliamentary_App.@react-native-community_datetimepicker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2019761703/Parliamentary_App.@react-native-community_datetimepicker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-2019761703/Parliamentary_App.@react-native-community_datetimepicker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2019761703/Parliamentary_App.@react-native-community_datetimepicker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2019761703/Parliamentary_App.@react-native-community_datetimepicker.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Parliamentary_App.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Parliamentary_App.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Parliamentary_App.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Parliamentary_App.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Parliamentary_App.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Parliamentary_App.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Parliamentary_App.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Parliamentary_App.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-55980453/Parliamentary_App.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-55980453/Parliamentary_App.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-55980453/Parliamentary_App.react-native-async-storage_async-storage.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-55980453/Parliamentary_App.react-native-async-storage_async-storage.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-55980453/Parliamentary_App.react-native-async-storage_async-storage.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-55980453/Parliamentary_App.react-native-async-storage_async-storage.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-55980453/Parliamentary_App.react-native-async-storage_async-storage.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-55980453/Parliamentary_App.react-native-async-storage_async-storage.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2019761703/Parliamentary_App.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/-2019761703/Parliamentary_App.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2019761703/Parliamentary_App.react-native-community_datetimepicker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2019761703/Parliamentary_App.react-native-community_datetimepicker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2019761703/Parliamentary_App.react-native-community_datetimepicker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-2019761703/Parliamentary_App.react-native-community_datetimepicker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2019761703/Parliamentary_App.react-native-community_datetimepicker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2019761703/Parliamentary_App.react-native-community_datetimepicker.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/170363930/Parliamentary_App.react-native-document-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/170363930/Parliamentary_App.react-native-document-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/170363930/Parliamentary_App.react-native-document-picker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/170363930/Parliamentary_App.react-native-document-picker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/170363930/Parliamentary_App.react-native-document-picker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/170363930/Parliamentary_App.react-native-document-picker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/170363930/Parliamentary_App.react-native-document-picker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/170363930/Parliamentary_App.react-native-document-picker.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-352344423/Parliamentary_App.react-native-file-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-352344423/Parliamentary_App.react-native-file-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-352344423/Parliamentary_App.react-native-file-picker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-352344423/Parliamentary_App.react-native-file-picker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-352344423/Parliamentary_App.react-native-file-picker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-352344423/Parliamentary_App.react-native-file-picker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-352344423/Parliamentary_App.react-native-file-picker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-352344423/Parliamentary_App.react-native-file-picker.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1882040265/Parliamentary_App.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1882040265/Parliamentary_App.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1882040265/Parliamentary_App.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1882040265/Parliamentary_App.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1882040265/Parliamentary_App.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1882040265/Parliamentary_App.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1882040265/Parliamentary_App.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1882040265/Parliamentary_App.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1161396001/Parliamentary_App.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1161396001/Parliamentary_App.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1161396001/Parliamentary_App.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1161396001/Parliamentary_App.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1161396001/Parliamentary_App.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1161396001/Parliamentary_App.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1161396001/Parliamentary_App.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1161396001/Parliamentary_App.react-native-screens.unitTest.iml" />
+    </modules>
+  </component>
+</project>
