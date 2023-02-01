@@ -524,6 +524,8 @@ setSearchConcernedMinistryAdj(text);
    {label: 'Withdrawn', value: 'Withdrawn'},
    {label: 'Referred to Committee', value: 'Referred to Committee'},
    {label: 'Taken up but no concluded', value: 'Taken up but no concluded'},
+   {label: 'Disposed Off', value: 'Disposed Off'},
+   {label: 'Taken up', value: 'Taken up'},
  ]);
 
  const [open2, setOpen2] = useState(false);

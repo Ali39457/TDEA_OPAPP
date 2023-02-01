@@ -98,12 +98,11 @@ const HandleSubmit=async()=>{
        
       })
       console.log(resp.data)
-      
+      Alert.alert('Data inserted successfully!')
     } catch (error) {
       console.log(error)
     }
   }
-
 
 
 
@@ -134,7 +133,7 @@ const HandleSubmit=async()=>{
           {
   selected1 ? 
   <View style={styles.TextInputView1}>  
-  <Text style={styles.Text}>Data submitted sucessfully!</Text>           
+  <Text style={styles.Text}>Data submitted successfully!</Text>           
   <Pressable   
   onPress={()=>{
     HandleSubmit()

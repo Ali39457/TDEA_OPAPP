@@ -47,6 +47,7 @@ import Sample from '../main_screens/Sample';
 
 const Stack = createNativeStackNavigator();
 
+
 export default function AppNavigator({navigation,route}){
 
   

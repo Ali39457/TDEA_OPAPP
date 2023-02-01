@@ -284,6 +284,7 @@ renderItem={({item})=>{
              placeholderTextColor="#fff"
              placeholder="H"
              keyboardType='numeric'
+             editable={RadioBtn3==' P' ? true:false}
              onChangeText={(value)=>setSpeakerHour2(value)}
               />
         </View>
@@ -294,6 +295,7 @@ renderItem={({item})=>{
              placeholderTextColor="#fff"
              placeholder="M"
              keyboardType='numeric'
+             editable={RadioBtn3==' P' ? true:false}
              onChangeText={(value)=>{setSpeakerMin2(value)}} 
              />
         </View>
@@ -342,7 +344,7 @@ onPress={()=>{
     {
       Alert.alert('Enter time of Deputy Speaker')
     }
-    else if(RadioBtn3!=null && SpeakerHour2.length==0 && SpeakerMin2.length==0)
+    else if(RadioBtn3==' P' && SpeakerHour2.length==0 && SpeakerMin2.length==0)
     {
       Alert.alert('Enter time of Chairpersons')
     }else{

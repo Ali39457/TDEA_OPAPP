@@ -635,6 +635,7 @@ setSearchIncludeReport(text);
     {label: 'Not Taken Up', value: 'Not Taken Up'},
     {label: 'Taken up but no concluded', value: 'Taken up but no concluded'},
     {label: 'Rejected', value: 'Rejected'},
+    {label: 'Presented', value: 'Presented'},
   ]);
 
   {/*---------------------------------------- Agenda Drop-Down States----------------------------------------- */}
